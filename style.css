@@ -70,13 +70,9 @@
     font: 1.2em monospace;
     color: teal;
     background: rgba(0, 0, 0, 0.1);
-}
-
-.front {
-    z-index: 2;
     backface-visibility: hidden;
-   -webkit-backface-visibility: hidden;
-    -moz-backface-visibility: hidden;
+        -webkit-backface-visibility: hidden;
+        -moz-backface-visibility: hidden;
 }
 
 .back {
